@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    background: #1B396A;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+table, th, td {
+    border: 2px solid #1B396A;
+    border-collapse: collapse;
+    padding: 10px;
+} 
+
+table {
+    margin: 0px auto;
+    text-align: center;
+}
+
+.resaltado {
+    background-color: black;
+    color: white;
+}
+
+.horario {
+    width: 10%;
+}
